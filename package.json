@@ -1,0 +1,28 @@
+{
+  "name": "selection-sort-mrmolley",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrmolley/selection-sort-mrmolley.git"
+  },
+  "keywords": [
+    "selection-sort-mrmolley"
+  ],
+  "author": "mrmolley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrmolley/selection-sort-mrmolley/issues"
+  },
+  "homepage": "https://github.com/mrmolley/selection-sort-mrmolley#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "uuid": "^9.0.1",
+    "ascending-order-mrmolley": "1.0.1",
+    "adventuregame-mrmolley": "1.0.1"
+  }
+}
